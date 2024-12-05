@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Jayani Dissanayake
+- 👀 I’m interested in Compuer Science
+- 🌱 I’m currently learning Institute of Software Engineering
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- 
+- ⚡ Fun fact: ...
+
+<!---
+jayanidissanayake15/jayanidissanayake15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
