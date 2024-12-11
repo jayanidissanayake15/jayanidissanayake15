@@ -1,7 +1,7 @@
 Here's a filled-out version of your profile:
 
 - 👋 Hi, I’m Jayani Dissanayake  
-- 👀 I’m interested in Computer Science  & Software develop
+- 👀 I’m interested in Computer Science  & Software developer.
 - 🌱 I’m currently learning at the Institute of Software Engineering  ,Panadura,Sri Lanka
 - 💞️ I’m looking to collaborate on software development projects, research, or coding challenges  
 - 📫 How to reach me: [Provide your contact details or social media links here]  
