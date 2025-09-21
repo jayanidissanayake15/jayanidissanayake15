@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanidissanayake15&label=Profile%20views&color=0e75b6&style=flat" alt="jayanidissanayake15" /> </p>
 
-- 🔭 I’m currently studying on [Institute of Software Engineering Panadura]
+- 🔭 I’m currently studying on Institute of Software Engineering Panadura
 
 - 🌱 I’m currently learning **- JavaFX, MySQL, Layered Architecture (MVC, DAO, BO, DTO) - Software Engineering principles and OOP design**
 
