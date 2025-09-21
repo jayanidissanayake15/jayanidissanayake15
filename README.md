@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayani Dissanayake</h1>
-<h3 align="center">💻 Undergraduate Software Engineering Student | Sri Lanka</h3>
+<h3 align="center">💻 An Undergraduate Software Engineer| Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanidissanayake15&label=Profile%20views&color=0e75b6&style=flat" alt="jayanidissanayake15" /> </p>
 
